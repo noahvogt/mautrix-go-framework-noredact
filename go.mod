@@ -1,4 +1,4 @@
-module maunium.net/go/mautrix
+module https://github.com/noahvogt/mautrix-go-framework-noredact
 
 go 1.22.0
 
