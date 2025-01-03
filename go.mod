@@ -1,4 +1,4 @@
-module https://github.com/noahvogt/mautrix-go-framework-noredact
+module github.com/noahvogt/mautrix-go-framework-noredact
 
 go 1.22.0
 
